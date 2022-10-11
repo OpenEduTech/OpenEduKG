@@ -13,6 +13,6 @@
 |  01   | 09-6 |  蒲鹏  | 水杉GNN+KG的全景企划以及任务分解                                       |  蒲鹏  |   待补充   |  |
 |  02   | 09-19 | 雷镇豪 | GNN论文分享+smartKG效果展示 | 蒲鹏 | https://github.com/OpenEduTech/OpenEduKG/issues/1 |  |
 |  03   | 09-26 |谢文柱  | GNN论文分享+KG问答系统展示 | 蒲鹏 |  | https://www.bilibili.com/video/BV1V24y1o7XE/?spm_id_from=333.999.0.0&vd_source=5f878247003461023cb021ba7cb0e749 |
-|  04   | 09-27 |张天赐  | GNN论文分享 | 待定 |  |
-
+|  04   | 09-27 |张天赐  | GNN论文分享 | 待定 |  ||
+| 05 | 10-11 |雷镇豪 | KG前置知识+KGCN论文分享 | 蒲鹏 | ||
 
