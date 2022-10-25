@@ -15,5 +15,6 @@
 |  03   | 09-26 |谢文柱  | GNN论文分享+KG问答系统展示 | 蒲鹏 |  | https://www.bilibili.com/video/BV1V24y1o7XE/?spm_id_from=333.999.0.0&vd_source=5f878247003461023cb021ba7cb0e749 |
 |  04   | 09-27 |张天赐  | GNN论文分享 |蒲鹏 |  ||
 | 05 | 10-11 |雷镇豪 | KG前置知识+KGCN论文分享 |蒲鹏  | |https://www.bilibili.com/video/BV1qD4y1k7w5/?spm_id_from=333.999.0.0 | 
-| 06 | 10-11 |谢文柱 | KG前置知识+KGCN论文分享 |蒲鹏  | |https://www.bilibili.com/video/BV1qR4y1X7zN/?spm_id_from=333.999.0.0 | 
-| 07 | 10-25 |张天赐 | GNN论文分享，如何利用GNN处理矩阵补全 |蒲鹏 |  | |https://www.bilibili.com/video/BV1H84y1B7oW/?vd_source=5f878247003461023cb021ba7cb0e749|
+| 06 | 10-11 |谢文柱 | KG前置知识+KGCN论文分享             |蒲鹏  | |https://www.bilibili.com/video/BV1qR4y1X7zN/?spm_id_from=333.999.0.0 | 
+| 07 | 10-25 |张天赐 | GNN论文分享，如何利用GNN处理矩阵补全 |蒲鹏  | |https://www.bilibili.com/video/BV1H84y1B7oW/?vd_source=5f878247003461023cb021ba7cb0e749|
+ 
